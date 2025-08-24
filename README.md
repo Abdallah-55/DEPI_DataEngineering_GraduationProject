@@ -1,6 +1,6 @@
 # DEPI_DataEngineering_GraduationProject
 
-**Depi Group Code:** GIZ3_AIS5_S1
+**DEPI Group Code:** GIZ3_AIS5_S1
 
 ## Team Members:
 
