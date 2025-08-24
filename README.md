@@ -1,5 +1,7 @@
 # DEPI_DataEngineering_GraduationProject
 
+**Depi Group Code:** GIZ3_AIS5_S1
+
 ## Team Members:
 
 1. Abdallah Ramadan Abdallah Ali
